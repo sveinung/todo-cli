@@ -1,0 +1,21 @@
+{
+  "name": "todo-cli",
+  "version": "0.0.0",
+  "description": "Example TODO command suite application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sveinung/todo-cli.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Sveinung Dalatun",
+  "license": "BSD",
+  "dependencies": {
+    "commander": "~2.0.0"
+  }
+}
