@@ -21,6 +21,7 @@
   "dependencies": {
     "commander": "~2.0.0",
     "underscore": "~1.5.1",
-    "moment": "~2.1.0"
+    "moment": "~2.1.0",
+    "colors": "~0.6.1"
   }
 }
